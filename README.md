@@ -44,7 +44,9 @@ Developed by Sowjanya U
 # 📂 Project Structure
 
 cancer-prediction-app/
-│
+
 ├── app.py # Main Streamlit app
+
 ├── random_forest_classifier.pkl # Pre-trained ML model
+
 └── README.md # Project documentation
