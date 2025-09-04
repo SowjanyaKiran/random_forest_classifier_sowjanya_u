@@ -1,10 +1,10 @@
-# # 🧬 Cancer Prediction Web App  
+# 🧬 Cancer Prediction Web App  
 
 This is a **Streamlit-based web application** that predicts the type of cancer (Benign or Malignant) using a **Random Forest Classifier** model.  
 
 ---
 
-## 🚀 Features
+# 🚀 Features
 - User-friendly Streamlit interface  
 - Collects patient details such as:  
   - Age, Gender  
@@ -17,7 +17,7 @@ This is a **Streamlit-based web application** that predicts the type of cancer (
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 - **Python**  
 - **Streamlit** (for web interface)  
 - **Scikit-learn** (Random Forest Classifier model)  
