@@ -41,4 +41,10 @@ It should NOT be used for actual medical diagnosis or treatment.
 
 Developed by Sowjanya U
 
-## 📂 Project Structure
+# 📂 Project Structure
+
+cancer-prediction-app/
+│
+├── app.py # Main Streamlit app
+├── random_forest_classifier.pkl # Pre-trained ML model
+└── README.md # Project documentation
